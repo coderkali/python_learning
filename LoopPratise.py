@@ -1,0 +1,14 @@
+# Printing the table of 56
+# Write a Python program that prints the multiplication table of 56 from 1 to 10.
+
+# Instructions:
+
+# Use a loop to print the table.
+
+# Format the output as shown above.
+
+# Ensure the program runs without errors.
+
+
+for i in range(1, 11):
+    print(f"56 x {i} = {56 * i}")
